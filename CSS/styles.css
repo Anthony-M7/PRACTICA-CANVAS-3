@@ -114,7 +114,7 @@ h1 {
 }
 .title-2 span {
   background: linear-gradient(140deg, #9340ff, #ff3c5f);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 .part-II p {
@@ -140,7 +140,7 @@ h1 {
 }
 .part-III h3 {
   background: linear-gradient(140deg, #9340ff, #ff3c5f);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   font-size: 3.5rem;
   text-align: center;
@@ -229,7 +229,7 @@ h1 {
 }
 .contact h3 {
   background: linear-gradient(140deg, #9340ff, #ff3c5f);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
   font-size: 3.5rem;
   text-align: center;
